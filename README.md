@@ -42,8 +42,5 @@ Em uma clínica médica, a gestão eficiente das consultas, médicos, pacientes 
 - **Paciente-Consulta**: Um paciente pode marcar várias consultas (1:N).
 - **Paciente-Convênio**: Muitos pacientes podem ter muitos convênios (N:M).
 
-![Modelo Entidade-Relacionamento (MER)](MER.jpg)
+  ![MER](https://github.com/user-attachments/assets/1fd91fc9-055a-46dc-b06e-5bf9243a0a39)
 
-## Scripts
-
-O arquivo `database_model.sql` contém a definição do banco de dados.
