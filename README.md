@@ -1,6 +1,6 @@
 # clinica-medica-db
 
-# Storytelling: Modelando o Banco de Dados da Clínica Médica
+# Modelando o Banco de Dados da Clínica Médica
 
 Em uma clínica médica, a gestão eficiente das consultas, médicos, pacientes e convênios é fundamental para garantir um atendimento de qualidade e um controle adequado dos dados. Para atender às necessidades do negócio e otimizar a operação, foi criado um Modelo Entidade-Relacionamento (MER) que será o alicerce do sistema de informações da clínica.
 
@@ -42,7 +42,7 @@ Em uma clínica médica, a gestão eficiente das consultas, médicos, pacientes 
 - **Paciente-Consulta**: Um paciente pode marcar várias consultas (1:N).
 - **Paciente-Convênio**: Muitos pacientes podem ter muitos convênios (N:M).
 
-![Modelo Entidade-Relacionamento (MER)](MER.png)
+![Modelo Entidade-Relacionamento (MER)](MER.jpg)
 
 ## Scripts
 
